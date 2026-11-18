@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivanichoudhary-sf.github.io/sitemap.xml
